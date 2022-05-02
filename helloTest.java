@@ -10,6 +10,6 @@ public class helloTest {
 
     @Test
     public void testmultiply() {
-        assertEquals(6, hello.multiply(2, 2)); // checks that 2 == 1+1
+        assertEquals(4, hello.multiply(2, 2)); // checks that 2 == 1+1
     }
 }
